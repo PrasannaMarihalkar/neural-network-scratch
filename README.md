@@ -76,9 +76,9 @@ Input          Conv Block 1     Conv Block 2      Classifier
 
 | Metric              | NumPy NN     | PyTorch CNN   |
 |---------------------|-------------|---------------|
-| Test Accuracy       | ~95.6%      | ~99.2%        |
+| Test Accuracy       | ~97.34%      | ~99.2%        |
 | Parameters          | 109,386     | ~1.2M         |
-| Training Time       | ~3–5 min    | ~3–5 min      |
+| Training Time       | 5.4 min    | ~3–5 min      |
 | Architecture        | Dense only  | Conv + Dense  |
 | Conv Layers         | 0           | 2             |
 | Regularization      | Early stop  | Dropout + BN  |
@@ -89,7 +89,7 @@ Input          Conv Block 1     Conv Block 2      Classifier
 
 ## Mathematical Foundation
 
-This section explains the complete math behind both models — the kind of depth Amazon ML School looks for.
+
 
 ### A) Forward Pass — The Math
 
@@ -322,8 +322,8 @@ All outputs appear in `outputs/plots/`, `outputs/models/`, and `outputs/results/
 
 ## Author
 
-**[Your Name]**
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+**Prasanna Chidambar Marihalkar**
+- GitHub: [github.com/PrasannaMarihalkar](https://github.com/PrasannaMarihalkar)
 
-*Built as part of Amazon ML Summer School preparation, 1st year CS @ PES University Bengaluru.*
+
+
