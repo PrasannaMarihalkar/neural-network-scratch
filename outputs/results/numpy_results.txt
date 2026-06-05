@@ -1,0 +1,11 @@
+NumPy Neural Network Results
+========================================
+Architecture: 784 → 128 → 64 → 10
+Total Parameters: 109,386
+Test Accuracy: 97.3400%
+Test Loss: 0.085309
+Training Time: 694.3 seconds
+Epochs Trained: 50
+Best Epoch: 49
+Learning Rate: 0.01
+Batch Size: 64

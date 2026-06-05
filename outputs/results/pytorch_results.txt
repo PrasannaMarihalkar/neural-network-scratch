@@ -1,0 +1,8 @@
+PyTorch CNN Results
+========================================
+Architecture: Conv(32)+BN → Conv(64)+BN+Pool → FC(256) → FC(10)
+Total Parameters: 3,233,098
+Test Accuracy: 99.3700%
+Training Time: 23807.8 seconds
+Epochs: 15
+Best Val Accuracy: 99.3700%

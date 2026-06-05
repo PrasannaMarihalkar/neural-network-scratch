@@ -1,0 +1,7 @@
+data/
+outputs/models/
+outputs/results/*.npy
+__pycache__/
+*.pyc
+venv/
+.env
